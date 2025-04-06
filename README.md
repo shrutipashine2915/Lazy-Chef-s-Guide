@@ -65,8 +65,4 @@ streamlit run recipe_app.py
 
 ## 👩‍💻 Created With ❤️ by Shruti Pashine
 
-```
-
----
-
 
