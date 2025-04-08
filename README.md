@@ -32,11 +32,11 @@ pip install streamlit
 3. Open terminal and run:
 
 ```bash
-streamlit run recipe_app.py
+streamlit run Recipe.py
 ```
 
 4. The app will open in your default browser!
-
+5. Or you can use this link https://lazy-chefs-guide.streamlit.app/
 ---
 
 ## 🧪 Example Recipes in the App
